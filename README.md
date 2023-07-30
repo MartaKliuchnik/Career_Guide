@@ -1,3 +1,20 @@
+![career_guide](https://github.com/MartaKliuchnik/Career_Guide/assets/101942611/5e50f8f7-6232-4e3f-bf14-04984d1e9596)
+
+**Career Guide**
+
+The main goal of this project is to create a platform where users can find out more information about professions that interest them. 
+
+Users can select professions from a pop-up menu and add filtering for these videos by profession, industry and size. Responsive design allows user to use this website on different devices without any restrictions.
+
+Used web-technologies:
+- HTML, CSS
+- Javascript
+- React
+
+link: https://career-project.onrender.com
+
+link(back): https://hub.docker.com/repository/docker/krajniy/prejob/general
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
